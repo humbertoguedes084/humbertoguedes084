@@ -1,5 +1,5 @@
-Oi👋meu nome é Humberto
-Desenvolvedor de Full Stack
+Olá,👋 meu nome é Humberto👋
+🚀Desenvolvedor de Full Stack🚀
 
 Sou um desenvolvedor de 25 anos e hacker desde os 23. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
