@@ -1,16 +1,12 @@
-### Hi there 👋
+Oi👋meu nome é Humberto
+Desenvolvedor de Full Stack
+Sou um desenvolvedor de 25 anos e hacker desde os 23. Adoro codificar e descobrir como resolver problemas profundos usando tecnologia de ponta. Meu foco principal é desenvolvimento front e back-end, fazendo aplicações que impactam a vida de milhares de usuários.
 
-<!--
-**humbertoguedes084/humbertoguedes084** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu também sou um estudante em Gestão publica | IFRN , uma faculdade no nordeste Brasileiro.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Moro em Natal-RN, Brasil.
+✉️ Você pode entrar em contato comigo em humberto.gueded@gmail.com
+🚀 Atualmente estou trabalhando na MTI soluçoes.
+🧠 Estou aprendendo Javascript, python.
+🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
+⚡ Amo esportes e meu preferido é musculação.
