@@ -5,7 +5,7 @@ Sou um desenvolvedor de 25 anos e hacker desde os 23. Adoro codificar e descobri
 Eu também sou um estudante em Gestão publica | IFRN , uma faculdade no nordeste Brasileiro.
 
 🌍 Moro em Natal-RN, Brasil.
-✉️ Você pode entrar em contato comigo em humberto.gueded@gmail.com
+✉️ Você pode entrar em contato comigo em humberto.gueded@gmail.com.
 🚀 Atualmente estou trabalhando na MTI soluçoes.
 🧠 Estou aprendendo Javascript, python.
 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
